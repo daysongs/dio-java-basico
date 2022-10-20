@@ -1,3 +1,4 @@
+package Classe;
 public class App {
     public static void main(String[] args) throws Exception {
         Carro carro1 = new Carro();

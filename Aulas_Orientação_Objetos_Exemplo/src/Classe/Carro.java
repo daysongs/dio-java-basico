@@ -1,3 +1,4 @@
+package Classe;
  class Carro {
     // Atributos
     String cor;
